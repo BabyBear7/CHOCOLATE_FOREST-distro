@@ -1,0 +1,31 @@
+{
+  "$schema": "file:///D:/helios/CHOCOLATE_FOREST/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "초코나무숲",
+    "description": "CHOCOLATE_FOREST Running Minecraft 1.21.4 (Fabric v0.17.2)",
+    "icon": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/launcherIMG.png",
+    "address": "준우.온라인.한국:31898",
+    "discord": {
+      "shortId": "1452706498877587456",
+      "largeImageText": "초코나무숲",
+      "largeImageKey": "ico"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt",
+        "config/*",
+        "config/**/*",
+        "servers.dat"
+      ]
+    }
+  ]
+}
