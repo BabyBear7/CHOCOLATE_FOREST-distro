@@ -12,7 +12,7 @@
       "name": "초코나무숲",
       "description": "CHOCOLATE_FOREST Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/launcherIMG.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "준우.온라인.한국:31898",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -233,6 +233,16 @@
             "size": 154830,
             "url": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/servers/CHOCOLATE_FOREST-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4%20(1)%20(1)%20(1).jar",
             "MD5": "1062016a1608823555c1bf16fafeb6cd"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/servers/CHOCOLATE_FOREST-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
           }
         },
         {
