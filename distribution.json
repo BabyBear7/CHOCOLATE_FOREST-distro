@@ -12,7 +12,7 @@
       "name": "초코나무숲",
       "description": "CHOCOLATE_FOREST Running Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/launcherIMG.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "물초코.서버.한국",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -260,8 +260,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 113,
+            "size": 107,
             "url": "https://raw.githubusercontent.com/BabyBear7/CHOCOLATE_FOREST-distro/main/servers/CHOCOLATE_FOREST-1.21.4/files/servers.dat",
+            "MD5": "f1215f020894b18def846a6098a2d04f",
             "path": "servers.dat"
           }
         },
